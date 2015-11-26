@@ -1,0 +1,7 @@
+ftp
+ssh
+sql
+mysql
+mail
+webmail
+www
